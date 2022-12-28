@@ -1,0 +1,70 @@
+.parent {
+-fx-background-color: transparent;
+}
+.pane {
+-fx-background-color: #009099;
+}
+.trans-btn-white-border{
+-fx-background-color: transparent ;
+-fx-background-radius: 5px;
+-fx-border-color: #cccccc;
+-fx-border-radius: 20px;
+-fx-border-width: 1px;
+-fx-text-fill: whitesmoke ;
+}
+.white-pane{
+-fx-background-size: 289 335;
+-fx-background-position: center center;
+-fx-background-color:linear-gradient(to bottom right,#009099,#C5304D);
+}
+.tf_box{
+-fx-background-color: transparent ;
+-fx-border-color: #DEDEE4;
+-fx-border-width: 0px 0px 1px 0px;
+}
+.tf{
+-fx-background-color: transparent ;
+}
+.tf2{
+-fx-background-color: transparent ;
+-fx-border-color: #cccccc;
+-fx-border-radius: 20px;
+-fx-border-width: 1px;
+}
+.pink-btn{
+-fx-background-color: #C5304D;
+-fx-background-radius: 5px;
+-fx-text-fill: #FFFFFF;
+}
+.trans-btn-white-border2{
+-fx-background-color: transparent ;
+-fx-background-radius: 5px;
+-fx-border-color: #cccccc;
+-fx-border-radius: 20px;
+-fx-border-width: 0px;
+-fx-text-fill: black ;
+}
+.pic-form{
+-fx-background-color:linear-gradient(to bottom right,#009099,#C5304D);
+}
+.pane2 {
+-fx-background-color: #21130d;
+-fx-text-fill: white ;
+}
+.table{
+
+}
+.pane3{
+-fx-background-color: #Fbf6f4;
+}
+.pane4{
+-fx-background-color: #5e5959;
+}
+.trans-btn-white-border3{
+-fx-background-color: #21130d;
+-fx-background-radius: 10px;
+-fx-border-color: black;
+-fx-border-radius: 20px;
+-fx-border-width: 1px;
+-fx-text-fill: white ;
+}
